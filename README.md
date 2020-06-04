@@ -1,6 +1,6 @@
 # ESlint + Prettier + Typescript config
 
-My personal ESLint, Prettier and Typescript config for React projects.
+My personal ESLint, Prettier and Typescript config for React Native projects.
 
 ## Run the following commands:
 
