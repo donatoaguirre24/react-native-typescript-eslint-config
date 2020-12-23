@@ -8,6 +8,6 @@ My personal ESLint, Prettier and Typescript config for React Native projects.
 
 - `cd AwesomeTSProject`
 
-- `yarn add -D @react-native-community/eslint-config @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-jest eslint-plugin-prettier eslint-plugin-testing-library prettier`
+- `yarn add -D @react-native-community/eslint-config @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-jest eslint-plugin-prettier prettier eslint-plugin-react-native-a11y eslint-plugin-import eslint-import-resolver-typescript`
 
 Then create the **.eslintrc** and **.prettierrc** files using the provided config
